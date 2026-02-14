@@ -1,5 +1,9 @@
 # 💫 About Me:
-Full-Stack Developer specializing in Angular, Ionic, and Node.js with experience building scalable web apps, dashboards, and micro-frontend architectures. I focus on creating complete, production-ready solutions from scratch with clean code and strong performance. Passionate about solving real business problems through technology.
+Experienced Angular Developer with over 4 years of expertise in designing and developing robust, scalable, and dynamic web applications. Proficient in the latest versions of Angular, with a strong command of its core concepts, architecture, and best practices. Skilled in creating interactive, data-driven visualizations using advanced charting libraries to enhance user engagement and decision-making.
+
+Well-versed in modern UI component libraries, including Angular Material, PrimeNG, and NG-Zorro, for building responsive and visually appealing interfaces. Experienced in integrating Firebase for backend services, authentication, and real-time data synchronization. Proficient in implementing map-based solutions with Google Maps and Leaflet, as well as real-time communication features using WebSocket and Socket.IO.
+
+Possesses foundational knowledge of Ionic for cross-platform mobile application development. Committed to delivering high-quality, user-centric, and optimized solutions with a focus on clean, maintainable, and well-documented code.
 
 
 ## 🌐 Socials:
