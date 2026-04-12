@@ -1,5 +1,5 @@
 # 💫 About Me:
-Experienced Angular Developer with over 4 years of expertise in designing and developing robust, scalable, and dynamic web applications. Proficient in the latest versions of Angular, with a strong command of its core concepts, architecture, and best practices. Skilled in creating interactive, data-driven visualizations using advanced charting libraries to enhance user engagement and decision-making.
+Experienced Angular Developer with over 5 years of expertise in designing and developing robust, scalable, and dynamic web applications. Proficient in the latest versions of Angular, with a strong command of its core concepts, architecture, and best practices. Skilled in creating interactive, data-driven visualizations using advanced charting libraries to enhance user engagement and decision-making.
 
 Well-versed in modern UI component libraries, including Angular Material, PrimeNG, and NG-Zorro, for building responsive and visually appealing interfaces. Experienced in integrating Firebase for backend services, authentication, and real-time data synchronization. Proficient in implementing map-based solutions with Google Maps and Leaflet, as well as real-time communication features using WebSocket and Socket.IO.
 
